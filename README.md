@@ -4,7 +4,7 @@ This is a full-stack personal portfolio website showcasing my skills, projects, 
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 index.html             --> Main HTML file for the frontend structure
@@ -31,7 +31,7 @@ readme.md              --> Project documentation (this file)
 
 ---
 
-## 🧩 Dependencies
+## Dependencies
 
 ### Frontend:
 - **Google Fonts**: Poppins (via CDN)
@@ -52,16 +52,16 @@ readme.md              --> Project documentation (this file)
 
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
-### 📦 Extract or Clone
+### Extract or Clone
 ```bash
 Unzip Sravanth_Kumar_Portfolio.zip 
 # OR
 git clone https://github.com/sravanthskr/portfolio
 ```
 
-### 🖼️ Download Images
+### Download Images
 Download and place images (e.g., `favicon.png`, `my-avatar.png`, `project-1.jpg`, etc.) from:  
 [GitHub Assets](https://github.com/sravanthskr/portfolio/tree/main/assets/images)  
 into:  
@@ -69,7 +69,7 @@ into:
 
 ---
 
-### 🌐 Frontend Setup
+### Frontend Setup
 ```bash
 cd portfolio
 python -m http.server 8000
@@ -80,7 +80,7 @@ Make sure images load correctly.
 
 ---
 
-### 🛠️ Backend Setup
+### Backend Setup
 ```bash
 cd backend
 npm install
@@ -92,7 +92,7 @@ PORT=5000
 MONGO_URI=your_mongodb_atlas_connection_string
 ```
 
-> 💡 Sign up at [MongoDB Atlas](https://www.mongodb.com/docs/atlas/getting-started/), create a cluster, and get the connection string:
+> Sign up at [MongoDB Atlas](https://www.mongodb.com/docs/atlas/getting-started/), create a cluster, and get the connection string:
 ```
 mongodb+srv://<username>:<password>@cluster0.mongodb.net/portfolio?retryWrites=true&w=majority
 ```
@@ -122,7 +122,7 @@ GET http://localhost:5000/api/projects
 
 ---
 
-## 📊 MongoDB Data Sample
+## MongoDB Data Sample
 
 Populate your `projects` collection:
 
@@ -145,7 +145,7 @@ Populate your `projects` collection:
 
 ---
 
-## 🌟 Features
+## Features
 
 ### Frontend:
 - Responsive design (mobile, tablet, desktop)
@@ -163,13 +163,13 @@ Populate your `projects` collection:
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 
 [https://sravanthskr.github.io/portfolio/](https://sravanthskr.github.io/portfolio/)
 
 ---
 
-## 🧪 Testing
+## Testing
 
 ### Frontend:
 - Verify sidebar toggle, navigation, and project filtering
