@@ -1,4 +1,4 @@
-# Sravanth Kumar Full Stack Portfolio
+# Personal Portfolio
 
 This is a full-stack personal portfolio website showcasing my skills, projects, coding profiles, and contact information as a Java Developer and Computer Science student. The frontend is built with HTML, CSS, and JavaScript, integrated with a Node.js/Express.js backend using MongoDB for dynamic content.
 
