@@ -40,7 +40,7 @@ This is a full-stack personal portfolio website showcasing my skills, projects, 
 
 ## Setup Instructions
 1. **Clone or Download**:
-   - Download and extract `Sravanth_Kumar_Portfolio.zip`, or clone from [https://github.com/sravanthskr/portfolio](https://github.com/sravanthskr/portfolio).
+   - Clone from [https://github.com/sravanthskr/portfolio](https://github.com/sravanthskr/portfolio).
 2. **Frontend Setup**:
    - Navigate to the project root.
    - Serve using a local server:
