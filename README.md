@@ -90,13 +90,6 @@ This is a full-stack personal portfolio website showcasing my skills, projects, 
   - **MongoDB Integration**: Stores dynamic data for contacts and projects.
 - **Live Demo (Frontend)**: [https://sravanthskr.github.io/portfolio/](https://sravanthskr.github.io/portfolio/)
 
-## Notes
-- **Progress**: 60% complete. The frontend is fully functional, and the backend is partially implemented with contact and project APIs. The admin panel and JWT authentication are planned for future development.
-- **Commented-Out Sections**: The testimonials section in `index.html` is commented out and incomplete. Consider removing or completing it.
-- **Testing**: Test locally to ensure images load, the form submits to the backend, and projects are fetched dynamically.
-- **MongoDB**: Use MongoDB Atlas for simplicity. Ensure the `MONGO_URI` in `.env` is correct.
-- **Deployment**: The backend can be deployed to Render, Vercel, or Railway. Update frontend URLs (form action, project fetch) to the deployed backend URL.
-
 ## Author
 Sravanth Kumar  
 Email: sravanthskr2004@gmail.com  
