@@ -25,8 +25,6 @@ backend/
   └── controllers/
         ├── contactController.js   --> Logic for handling contact form submissions
         └── projectController.js   --> Logic for retrieving project data
-
-readme.md              --> Project documentation (this file)
 ```
 
 ---
